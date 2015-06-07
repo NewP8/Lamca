@@ -1,0 +1,1 @@
+parsaLc $ alexScanTokens "\\x.x" 
